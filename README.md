@@ -1,5 +1,5 @@
 # Game-Aeroplane
-用C++写的一个飞机大战项目
+用C++写的一个飞机大战项目，演示视频：https://www.bilibili.com/video/BV1fF41197Cx/?spm_id_from=333.999.0.0&vd_source=c5550c64419255b2e8c726aed68d4de4
 ***
 主要参考了视频：https://www.bilibili.com/video/BV1xY4y1k7hH/?spm_id_from=333.337.search-card.all.click&vd_source=c5550c64419255b2e8c726aed68d4de4
 ***
